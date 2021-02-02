@@ -7,7 +7,17 @@ The Ada programming language was named after the first lady programmer called: L
 -(who was, also, the illegimate daughter of the famous poet: Lord Gordon Byron)-;    
 she worked on programming Charles Babbage (1791-1871) 'mechanical' computers, namely: The Analytical Engine/The Difference Engine.   
 
+The language was invented by, Dr. Jean Ichibiah working at CII-Honeywell-Bull in France.
+
 Ada, is also used by the American DoD/department of Defense.
+
+# Versions
+
+Ada was developed in the early 1980's...
+
+- Ada 83  
+- Ada 95  
+- Ada 2012  
 
 # Links
 
