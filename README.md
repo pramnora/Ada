@@ -4,7 +4,8 @@ Ada programming language code/links/tutorials/videos/-etc.
 # History
 
 The Ada programming language was named after the first lady programmer called: Lady Ada Lovelace,  
-(who was, also, the illegimate daughter of the famous poet: Lord Gordon Byron).  
+-(who was, also, the illegimate daughter of the famous poet: Lord Gordon Byron)-;    
+she worked on programming Charles Babbage 'mechanical' computers, namely: The Analytical Engine/The Difference Engine.   
 
 Ada, is also used by the American DoD/department of Defense.
 
