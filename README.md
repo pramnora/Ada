@@ -20,6 +20,7 @@ Ada was developed in the early 1980's...
 
 - Ada 83  
 - Ada 95  
+- Ada 2005  
 - Ada 2012  
 
 # Links
