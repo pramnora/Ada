@@ -5,7 +5,10 @@ Ada programming language code/links/tutorials/videos/-etc.
 
 The Ada programming language was named after the first lady programmer called: Lady Augusta Ada Lovelace(1915-1952),  
 -(who was, also, the illegimate daughter of the famous poet: Lord Gordon Byron)-;    
-she worked on programming Charles Babbage (1791-1871) 'mechanical' computers, namely: The Analytical Engine/The Difference Engine.   
+she worked on programming Charles Babbage (1791-1871) 'mechanical' computers, namely:
+
+- The Analytical Engine  
+- The Difference Engine     
 
 The language was invented by, Dr. Jean Ichibiah working at CII-Honeywell-Bull in France.
 
